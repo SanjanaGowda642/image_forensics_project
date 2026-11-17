@@ -1,0 +1,9 @@
+{
+  "n_tampered": 0,
+  "n_authentic": 22,
+  "false_alarm_rate": 0.045454545454545456,
+  "authentic_inconclusive": 0.0,
+  "seconds_per_image": 5.374999999999999,
+  "pipeline": "classical detector only",
+  "command": "benchmark.py --authentic C:\\Users\\Vishal\\Downloads\\real_photos --out results_classical"
+}

@@ -1,0 +1,23 @@
+name,kind,gt_cls,label,confidence,flagged,inconclusive,gt_area_pct,pred_area_pct,n_regions,iou_auto,iou_oracle,iou_union,f1_auto,f1_oracle,seconds
+AUTH_WhatsApp Image 2026-01-09 at 11.03.53 AM (1),authentic,0,AUTHENTIC,0.946,0,0,0.0,0.0,0,nan,nan,nan,nan,nan,6.5
+AUTH_WhatsApp Image 2026-01-09 at 11.03.53 AM,authentic,0,AUTHENTIC,0.962,0,0,0.0,0.0,0,nan,nan,nan,nan,nan,5.73
+AUTH_WhatsApp Image 2026-01-14 at 8.49.37 PM,authentic,0,AUTHENTIC,0.6,0,0,0.0,0.0,0,nan,nan,nan,nan,nan,5.09
+AUTH_WhatsApp Image 2026-07-24 at 9.21.31 AM,authentic,0,AUTHENTIC,0.966,0,0,0.0,0.0,0,nan,nan,nan,nan,nan,5.97
+AUTH_WhatsApp Image 2026-09-06 at 6.46.59 PM,authentic,0,AUTHENTIC,0.6,0,0,0.0,0.0,0,nan,nan,nan,nan,nan,5.54
+AUTH_WhatsApp Image 2026-09-06 at 6.50.06 PM,authentic,0,AUTHENTIC,0.922,0,0,0.0,0.0,0,nan,nan,nan,nan,nan,6.37
+AUTH_WhatsApp Image 2026-11-17 at 5.49.56 PM (1),authentic,0,AUTHENTIC,0.746,0,0,0.0,0.0,0,nan,nan,nan,nan,nan,20.83
+AUTH_WhatsApp Image 2026-11-17 at 5.49.56 PM (2),authentic,0,AUTHENTIC,0.874,0,0,0.0,0.0,0,nan,nan,nan,nan,nan,10.51
+AUTH_WhatsApp Image 2026-11-17 at 5.49.56 PM,authentic,0,AUTHENTIC,0.95,0,0,0.0,0.0,0,nan,nan,nan,nan,nan,2.9
+AUTH_WhatsApp Image 2026-11-17 at 5.49.57 PM,authentic,0,AUTHENTIC,0.83,0,0,0.0,0.0,0,nan,nan,nan,nan,nan,3.13
+AUTH_WhatsApp Image 2026-11-17 at 5.49.58 PM (1),authentic,0,AUTHENTIC,0.87,0,0,0.0,0.0,0,nan,nan,nan,nan,nan,2.91
+AUTH_WhatsApp Image 2026-11-17 at 5.49.58 PM (2),authentic,0,AUTHENTIC,0.77,0,0,0.0,0.0,0,nan,nan,nan,nan,nan,3.54
+AUTH_WhatsApp Image 2026-11-17 at 5.49.58 PM,authentic,0,AUTHENTIC,0.91,0,0,0.0,0.0,0,nan,nan,nan,nan,nan,2.67
+AUTH_WhatsApp Image 2026-11-17 at 5.49.59 PM,authentic,0,AUTHENTIC,0.906,0,0,0.0,0.0,0,nan,nan,nan,nan,nan,2.95
+AUTH_WhatsApp Image 2026-11-17 at 5.50.00 PM (1),authentic,0,AUTHENTIC,0.934,0,0,0.0,0.0,0,nan,nan,nan,nan,nan,1.86
+AUTH_WhatsApp Image 2026-11-17 at 5.50.00 PM (2),authentic,0,AUTHENTIC,0.858,0,0,0.0,0.0,0,nan,nan,nan,nan,nan,4.66
+AUTH_WhatsApp Image 2026-11-17 at 5.50.00 PM,authentic,0,COPY-MOVE FORGERY,0.984,1,0,0.0,2.1,2,nan,nan,nan,nan,nan,7.41
+AUTH_WhatsApp Image 2026-11-17 at 5.50.01 PM,authentic,0,AUTHENTIC,0.826,0,0,0.0,0.0,0,nan,nan,nan,nan,nan,3.95
+AUTH_bengaluru-people-celebrate-sankranti-as-they-259267,authentic,0,AUTHENTIC,0.93,0,0,0.0,0.0,0,nan,nan,nan,nan,nan,5.93
+AUTH_holi,authentic,0,AUTHENTIC,0.97,0,0,0.0,0.0,0,nan,nan,nan,nan,nan,4.99
+AUTH_image-10-1024x606,authentic,0,AUTHENTIC,0.946,0,0,0.0,0.0,0,nan,nan,nan,nan,nan,1.79
+AUTH_traditional-mexican-clothing_traditional-mexican-dress,authentic,0,AUTHENTIC,0.962,0,0,0.0,0.0,0,nan,nan,nan,nan,nan,3.02

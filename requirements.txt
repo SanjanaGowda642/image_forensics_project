@@ -1,0 +1,14 @@
+# ---- required (the full detect -> mask -> cutout -> restore pipeline) ----
+numpy>=1.26
+opencv-python>=4.9
+pillow>=10.0
+flask>=3.0
+
+# ---- optional (multi-stream CNN: train.py / force_train.py) ----
+# Install a build of PyTorch that supports your Python version:
+#   https://pytorch.org/get-started/locally/
+# torch>=2.4
+
+# ---- optional (tamper-type model without PyTorch: train_features.py) ----
+# scikit-learn>=1.3
+# joblib>=1.3

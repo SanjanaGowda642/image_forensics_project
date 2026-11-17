@@ -1,0 +1,9 @@
+{
+  "n_tampered": 0,
+  "n_authentic": 22,
+  "false_alarm_rate": 0.9090909090909091,
+  "authentic_inconclusive": 0.09090909090909091,
+  "seconds_per_image": 3.645454545454544,
+  "pipeline": "CNN",
+  "command": "benchmark.py --authentic C:\\Users\\Vishal\\Downloads\\real_photos"
+}
